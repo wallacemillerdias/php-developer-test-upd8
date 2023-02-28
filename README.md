@@ -19,14 +19,13 @@ http://developer-test-upd8.herokuapp.com/
 >wallacemillerdias@gmail.com
 
 ## Projeto Final
-![Projeto 1](https://raw.githubusercontent.com/wallacemillerdias/php-developer-test-upd8/main/public/prototipos/4.png)
-![Projeto 2](https://raw.githubusercontent.com/wallacemillerdias/php-developer-test-upd8/main/public/prototipos/5.png)
+![Projeto 1](https://raw.githubusercontent.com/wallacemillerdias/php-developer-test-upd8/master/public/prototipos/4.png)
+![Projeto 2](https://raw.githubusercontent.com/wallacemillerdias/php-developer-test-upd8/master/public/prototipos/5.png)
 
 
 ## Protótipos
-![Protótipo 1](https://raw.githubusercontent.com/wallacemillerdias/php-developer-test-upd8/main/public/prototipos/1.png)
-![Protótipo 2](https://raw.githubusercontent.com/wallacemillerdias/php-developer-test-upd8/main/public/prototipos/2.png)
+![Protótipo 1](https://raw.githubusercontent.com/wallacemillerdias/php-developer-test-upd8/master/public/prototipos/1.png)
+![Protótipo 2](https://raw.githubusercontent.com/wallacemillerdias/php-developer-test-upd8/master/public/prototipos/2.png)
 
 ## Banco de dados
 ![Banco](https://raw.githubusercontent.com/wallacemillerdias/php-developer-test-upd8/master/public/prototipos/3.png)
-![Banco](https://github.com/wallacemillerdias/php-developer-test-upd8/master/public/prototipos/3.png)
