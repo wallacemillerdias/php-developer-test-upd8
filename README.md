@@ -28,4 +28,5 @@ http://developer-test-upd8.herokuapp.com/
 ![Protótipo 2](https://raw.githubusercontent.com/wallacemillerdias/php-developer-test-upd8/main/public/prototipos/2.png)
 
 ## Banco de dados
-![Banco](https://raw.githubusercontent.com/wallacemillerdias/php-developer-test-upd8/main/public/prototipos/3.png)
+![Banco](https://raw.githubusercontent.com/wallacemillerdias/php-developer-test-upd8/master/public/prototipos/3.png)
+![Banco](https://github.com/wallacemillerdias/php-developer-test-upd8/master/public/prototipos/3.png)
