@@ -18,7 +18,7 @@ class ClientSeeder extends Seeder
      */
     public function run(): void
     {
-        $timestamp = Carbon::createFromFormat('Y/d/m', '1986/10/23')->timestamp;
+        $timestamp = Carbon::createFromFormat('Y/m/d', '1986/10/23')->timestamp;
         $now = now();
         try {
             $state = State::where('uf', 'DF')->get();
